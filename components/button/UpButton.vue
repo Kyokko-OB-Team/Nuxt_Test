@@ -1,3 +1,3 @@
 <template>
-    <button>Up</button>
+    <b-button pill variant="danger">Up</b-button>
 </template>
